@@ -10,4 +10,4 @@ referência: https://blog.logrocket.com/build-blockchain-with-go
 
 ## License
 
-Este projeto está licenciado sob os termos da licença [MIT](LICENSE) licença.
+Este projeto está licenciado sob os termos da licença [MIT](LICENSE).
